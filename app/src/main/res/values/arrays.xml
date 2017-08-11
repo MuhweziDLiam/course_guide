@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="names_A">
+        <item>Physics</item>
+        <item>Maths</item>
+        <item>History</item>
+        <item>Geography</item>
+        <item>Chemistry</item>
+        <item>Biology</item>
+        <item>Divinity</item>
+        <item>French</item>
+        <item>Art</item>
+        <item>Sub-math</item>
+        <item>Literature</item>
+        <item>ICT</item>
+        <item>Economics</item>
+        <item>Agriculture</item>
+        <item>Entrepreneurship</item>
+        <item>General Paper</item>
+    </array>
+
+    <array name="status_A">
+        <item>Sciences</item>
+        <item>Sciences</item>
+        <item>Arts</item>
+        <item>Arts</item>
+        <item>Sciences</item>
+        <item>Sciences</item>
+        <item>Arts</item>
+        <item>Language-Arts</item>
+        <item>Arts</item>
+        <item>Subsidiary</item>
+        <item>Arts</item>
+        <item>Subsidiary</item>
+        <item>Arts</item>
+        <item>Sciences</item>
+        <item>Arts</item>
+        <item>Subsidiary</item>
+    </array>
+
+    <string-array name="photos">
+        <item>@drawable/pizarro</item>
+        <item>@drawable/manu</item>
+        <item>@drawable/edu</item>
+        <item>@drawable/tylos</item>
+        <item>@drawable/elisa</item>
+        <item>@drawable/lurecas</item>
+        <item>@drawable/romero</item>
+        <item>@drawable/jamm</item>
+        <item>@drawable/juanqui</item>
+        <item>@drawable/pablo</item>
+    </string-array>
+
+</resources>

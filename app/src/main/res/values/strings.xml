@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Course guide</string>
+
+    <!-- nonsense delete when time need be-->
+    <string name="order_id_mock" translatable="false"># 1234–5678</string>
+    <string name="sender_badge" translatable="false">DESCRIPTION</string>
+    <string name="client_name_mock" translatable="false">description</string>
+    <string name="delivery_time_mock" translatable="false">6:30 pm</string>
+    <string name="request_btn_text" translatable="false">REQUEST</string>
+    <string name="content_from1_mock">W 90th St</string>
+    <string name="content_to1_mock">46th Ave</string>
+
+    <string name="google_maps_key">AIzaSyC8Z0GyBAmpWVfrrxULbJ1y1dAThXeTIG0</string>
+
+
+
+    <!-- drawer items-->
+
+    <string name="drawer_item_compact_header">University Courses</string>
+    <string name="drawer_item_action_bar_drawer">Home</string>
+    <string name="drawer_item_non_translucent_status_drawer">Weighted Courses</string>
+    <string name="drawer_item_advanced_drawer">About App</string>
+    <string name="drawer_item_section_header">Calculate weight</string>
+    <string name="section_name">More about course guide</string>
+
+    <string name="drawer_item_open_source">Help</string>
+
+    <string name="sample">Lorem Ipsum is simply dummy text of the printing and typesetting industry</string>
+
+    <!-- About texts -->
+
+    <string name="about_text_one">About text one</string>
+
+    <string name="about_text_two">About text two</string>
+
+    <string name="horizontal_timeline">Horizontal Timeline</string>
+    <string name="vertical_timeline">Vertical Timeline</string>
+
+
+</resources>
